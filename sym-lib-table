@@ -1,4 +1,6 @@
 (sym_lib_table
-  (lib (name LSM303CTR)(type Legacy)(uri ${KIPRJMOD}/libraries/LSM303CTR.lib)(options "")(descr ""))
-  (lib (name Mobile_robot)(type Legacy)(uri ${KIPRJMOD}/Mobile_robot.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "LSM303CTR")(type "Legacy")(uri "${KIPRJMOD}/libraries/LSM303CTR.lib")(options "")(descr ""))
+  (lib (name "Mobile_robot")(type "Legacy")(uri "${KIPRJMOD}/Mobile_robot.lib")(options "")(descr ""))
+  (lib (name "Mobile_robot-rescue")(type "KiCad")(uri "${KIPRJMOD}/Mobile_robot-rescue.kicad_sym")(options "")(descr ""))
 )
